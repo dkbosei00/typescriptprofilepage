@@ -1,0 +1,19 @@
+img{
+    border-radius: 50%;
+    height:60px;
+    width: 60px;
+    float: left;
+}
+
+#member{
+    margin: auto;
+}
+
+#description{
+    float: right;
+    padding: 20px 10px;
+}
+
+p{
+    float: right;
+}
